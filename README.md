@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmpkeWc5aTBieDRzMzc1cG0zajd1OXFuemlxbTBqMDJubmRqdTdjbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/unxCGmTuBvwo2djRLA/giphy.gif" width="200" height="200"/>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJpdjUxNWc4aDUxd3J1NGowcmR5aHNjYTQzb3JmeGNjYTNwNW1iZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yr8GjoMTS4jDx9RG1d/giphy.gif" width="200" height="200"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHREYASTELKAR" width="250" height="250">
-  <h2> Welcome to my github and code with @shretel</h2> 
+  <h2> Welcome to my github and code with @shreyastelkar</h2> 
 </div>
 
 <div align="center">
