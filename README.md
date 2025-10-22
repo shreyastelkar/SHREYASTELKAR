@@ -1,13 +1,39 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/unxCGmTuBvwo2djRLA/giphy.gif" width="160" />
-  <img src="https://media.giphy.com/media/yr8GjoMTS4jDx9RG1d/giphy.gif" width="160" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHREYASTELKAR&layout=compact&theme=transparent&hide_border=true" width="300" />
-  <br/><br/>
-  <a href="https://projecteuler.net/progress=shretel">
-    <img src="https://projecteuler.net/profile/shretel.png" height="25" />
+<h1 align="center">Hi, I'm Shreyas Telkar 👋</h1>
+<h3 align="center">Full-Stack Developer</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/shreyastelkar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/shretel/">
-    <img src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=000000&color=ffa116&label=LeetCode&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fshretel&logo=leetcode&logoColor=yellow" height="25" />
+  <a href="https://leetcode.com/shretel/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-ffa116?style=flat-square&logo=leetcode&logoColor=white" />
   </a>
-</div>
+  <a href="https://projecteuler.net/progress=shretel" target="_blank">
+    <img src="https://img.shields.io/badge/Project%20Euler-323330?style=flat-square&logo=projecteuler&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🧠 About Me
+
+- 🔭 Currently working on **cloud-ready full-stack applications**  
+- 🌱 Learning **data structures, algorithms, and distributed systems**  
+- 💬 Ask me about **Django, React / Expo, and system design**  
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,react,typescript,javascript,html,css,git,aws,docker,linux&theme=light" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SHREYASTELKAR&show_icons=true&theme=transparent&hide_border=true&hide_title=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHREYASTELKAR&layout=compact&theme=transparent&hide_border=true" width="335" />
+</p>
